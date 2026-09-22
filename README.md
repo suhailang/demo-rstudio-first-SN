@@ -22,3 +22,5 @@ This is an edit I made on RStudio; I need to push it to GitHub
 Now this is an edit I made on GitHub; I need to pull it to RStudio
 
 This is a second edit I made on RStudio
+
+This is an edit I'm going to send to GitHub using the terminal
