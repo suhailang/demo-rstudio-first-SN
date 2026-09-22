@@ -8,3 +8,5 @@ mean_mpg <- mean(mtcars$mpg)
 
 # print the mean mpg
 mean_mpg
+
+# Demo comment 1 of pushing to GitHub
