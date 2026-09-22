@@ -13,4 +13,6 @@ mean_mpg
 
 # Demo comment 2 of pushing to GitHub on R file
 
-# Demo comment 1 of pulling to Rstudio
+# Demo comment 1 of pulling to RStudio
+
+# Demo comment 2 of pulling to RStudio
