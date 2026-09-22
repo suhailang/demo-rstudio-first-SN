@@ -9,4 +9,6 @@ mean_mpg <- mean(mtcars$mpg)
 # print the mean mpg
 mean_mpg
 
-# Demo comment 1 of pushing to GitHub
+# Demo comment 1 of pushing to GitHub on R file
+
+# Demo comment 2 of pushing to GitHub on R file
